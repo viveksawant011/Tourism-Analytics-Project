@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Professional clean style
 sns.set_theme(style="whitegrid")
 
 PALETTE = "viridis"
